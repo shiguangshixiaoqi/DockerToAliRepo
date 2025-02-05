@@ -14,5 +14,7 @@
 #docker.elastic.co/kibana/kibana:8.17.0
 centos
 tomcat
+rabbitmq
+
 
 
